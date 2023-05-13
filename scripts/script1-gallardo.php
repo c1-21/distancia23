@@ -1,8 +1,8 @@
 <?php
     /**
-    * @author Jose Gallardo
-    * @version 1.0
-    *
+    * @author Jose Gallardo LInares
+    * @version 1.0.1
+    * @example Etiqueta para ejemplo de modificacion
     */
 
 
